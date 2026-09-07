@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Math Notes",
+    "section": "",
+    "text": "Welcome to our class notes website.\nUse the navigation bar above to access notes for each topic.\n\n\n\nQuadratic Functions"
+  },
+  {
+    "objectID": "index.html#algebra-ii",
+    "href": "index.html#algebra-ii",
+    "title": "Math Notes",
+    "section": "",
+    "text": "Quadratic Functions"
+  },
+  {
+    "objectID": "algebraTwo.html",
+    "href": "algebraTwo.html",
+    "title": "Algebra II Notes",
+    "section": "",
+    "text": "A quadratic function is a function that can be written in the form\n\\[\nf(x)=ax^2+bx+c\n\\]\nwhere\n\\[\na \\neq 0.\n\\]\nThe graph of a quadratic function is called a parabola.\n\n\n\nThe standard form of a quadratic function is\n\\[\nf(x)=ax^2+bx+c.\n\\]\nFor example,\n\\[\nf(x)=2x^2-4x-6.\n\\]\nIn this function,\n\\[\na=2,\\qquad b=-4,\\qquad c=-6.\n\\]\n\n\nThe value of \\(a\\) determines the direction and width of the parabola.\n\nIf \\(a&gt;0\\), the parabola opens upward.\nIf \\(a&lt;0\\), the parabola opens downward.\nLarger values of \\(|a|\\) make the parabola narrower.\nSmaller values of \\(|a|\\) make the parabola wider.\n\n\n\n\n\n\n\nTipQuick Check\n\n\n\nFor\n\\[\nf(x)=-3x^2+5x+2,\n\\]\nthe parabola opens downward because\n\\[\na=-3&lt;0.\n\\]"
+  },
+  {
+    "objectID": "algebraTwo.html#standard-form",
+    "href": "algebraTwo.html#standard-form",
+    "title": "Algebra II Notes",
+    "section": "",
+    "text": "The standard form of a quadratic function is\n\\[\nf(x)=ax^2+bx+c.\n\\]\nFor example,\n\\[\nf(x)=2x^2-4x-6.\n\\]\nIn this function,\n\\[\na=2,\\qquad b=-4,\\qquad c=-6.\n\\]\n\n\nThe value of \\(a\\) determines the direction and width of the parabola.\n\nIf \\(a&gt;0\\), the parabola opens upward.\nIf \\(a&lt;0\\), the parabola opens downward.\nLarger values of \\(|a|\\) make the parabola narrower.\nSmaller values of \\(|a|\\) make the parabola wider.\n\n\n\n\n\n\n\nTipQuick Check\n\n\n\nFor\n\\[\nf(x)=-3x^2+5x+2,\n\\]\nthe parabola opens downward because\n\\[\na=-3&lt;0.\n\\]"
+  },
+  {
+    "objectID": "algebraTwo.html#example",
+    "href": "algebraTwo.html#example",
+    "title": "Algebra II Notes",
+    "section": "Example",
+    "text": "Example\nFind the vertex of\n\\[\nf(x)=x^2-6x+5.\n\\]\nHere,\n\\[\na=1,\\qquad b=-6.\n\\]\nUse the vertex formula:\n\\[\nx=\\frac{-(-6)}{2(1)}\n\\]\n\\[\nx=\\frac{6}{2}\n\\]\n\\[\nx=3.\n\\]\nNow substitute \\(x=3\\) into the function:\n\\[\nf(3)=3^2-6(3)+5\n\\]\n\\[\nf(3)=9-18+5\n\\]\n\\[\nf(3)=-4.\n\\]\nTherefore, the vertex is\n\\[\n\\boxed{(3,-4)}.\n\\]"
+  },
+  {
+    "objectID": "algebraTwo.html#example-1",
+    "href": "algebraTwo.html#example-1",
+    "title": "Algebra II Notes",
+    "section": "Example",
+    "text": "Example\nSolve\n\\[\n2x^2+3x-2=0.\n\\]\nIdentify the coefficients:\n\\[\na=2,\\qquad b=3,\\qquad c=-2.\n\\]\nSubstitute into the formula:\n\\[\nx=\n\\frac{-3\\pm\\sqrt{3^2-4(2)(-2)}}{2(2)}.\n\\]\nSimplify:\n\\[\nx=\n\\frac{-3\\pm\\sqrt{9+16}}{4}.\n\\]\n\\[\nx=\n\\frac{-3\\pm\\sqrt{25}}{4}.\n\\]\n\\[\nx=\n\\frac{-3\\pm5}{4}.\n\\]\nThis gives two solutions:\n\\[\nx=\\frac{-3+5}{4}=\\frac12\n\\]\nand\n\\[\nx=\\frac{-3-5}{4}=-2.\n\\]\nTherefore,\n\\[\n\\boxed{x=\\frac12 \\text{ or } x=-2}.\n\\]"
+  },
+  {
+    "objectID": "algebraTwo.html#example-2",
+    "href": "algebraTwo.html#example-2",
+    "title": "Algebra II Notes",
+    "section": "Example",
+    "text": "Example\nConsider\n\\[\nx^2+4x+8=0.\n\\]\nThe discriminant is\n\\[\nb^2-4ac.\n\\]\nSubstitute:\n\\[\n4^2-4(1)(8)\n\\]\n\\[\n16-32=-16.\n\\]\nSince\n\\[\n-16&lt;0,\n\\]\nthe equation has no real solutions."
+  }
+]

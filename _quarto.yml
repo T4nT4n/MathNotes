@@ -1,0 +1,16 @@
+project:
+  type: website
+
+website:
+  title: "Math Notes"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: algebra2.qmd
+        text: Algebra II
+
+format:
+  html:
+    theme: cosmo
+    toc: true

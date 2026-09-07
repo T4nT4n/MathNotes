@@ -1,0 +1,13 @@
+---
+title: "Math Notes"
+---
+
+# Welcome
+
+Welcome to our class notes website.
+
+Use the navigation bar above to access notes for each topic.
+
+## Algebra II
+
+- [Quadratic Functions](algebra2.qmd)
